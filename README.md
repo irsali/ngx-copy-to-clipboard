@@ -4,6 +4,8 @@ Click and copy to your clipboard fast
 
 <br>
 
+This version of ngx-copy-to-clipboard will install with higher versions of angular without testing. so, use this with your testing. Angular 18 introduces signals, if your component uses signals then testing must be done that it working correctly.
+
 ## Why is there a need Copy to clipboard?
 
 > The "Copy to clipboard" directive is a useful feature that allows users to quickly and easily duplicate content from one location and paste it into another. It is particularly useful when working with text, as it eliminates the need to manually retype or reformat content.
